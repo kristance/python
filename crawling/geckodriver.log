@@ -1,0 +1,38 @@
+1713408394540	geckodriver	INFO	Listening on 127.0.0.1:6861
+1713408454287	geckodriver	INFO	Listening on 127.0.0.1:6896
+1713408486166	geckodriver	INFO	Listening on 127.0.0.1:6916
+1713408563158	geckodriver	INFO	Listening on 127.0.0.1:6997
+1713408566221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofile9ErpeC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713408566493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713408566584	Marionette	INFO	Listening on port 7007
+Read port: 7007
+1713408566749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nate.com/js/common/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1713408596772	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1713409246236	geckodriver	INFO	Listening on 127.0.0.1:7768
+1713409249260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofile26YM3M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713409249516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713409249586	Marionette	INFO	Listening on port 7778
+Read port: 7778
+1713409249744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713409281132	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713409352648	Marionette	INFO	Stopped listening on port 7778
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enable window occlusion 0
+1713409257014	Marionette	INFO	Listening on port 7815
+Read port: 7815
+1713409257160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nate.com/js/common/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1713409287128	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713409350461	Marionette	INFO	Stopped listening on port 7815
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

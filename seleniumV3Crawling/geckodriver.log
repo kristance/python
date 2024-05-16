@@ -1,0 +1,858 @@
+1713754796555	geckodriver	INFO	Listening on 127.0.0.1:8344
+1713754799583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1280,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilewpjL9z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713754799857	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713754799940	Marionette	INFO	Listening on port 8354
+Read port: 8354
+1713754800108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713754830474	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713754943854	Marionette	INFO	Stopped listening on port 8354
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713754939654	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713754939721	Marionette	INFO	Listening on port 8411
+Read port: 8411
+1713754939861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713754969730	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713755200757	Marionette	INFO	Stopped listening on port 8411
+Dynamically enable window occlusion 1
+onment
+1713755073750	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755073820	Marionette	INFO	Listening on port 8491
+Read port: 8491
+1713755073973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713755077800	Marionette	INFO	Stopped listening on port 8491
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713755164741	geckodriver	INFO	Listening on 127.0.0.1:8565
+1713755167780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1280,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileRfn3kP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713755168039	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755168110	Marionette	INFO	Listening on port 8575
+Read port: 8575
+1713755168264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755173744	Marionette	INFO	Stopped listening on port 8575
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713755174978	geckodriver	INFO	Listening on 127.0.0.1:8604
+1713755178026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1280,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilebCipKP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713755178280	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755178353	Marionette	INFO	Listening on port 8614
+Read port: 8614
+1713755178509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713755202208	Marionette	INFO	Stopped listening on port 8614
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755227194	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713756214051	Marionette	INFO	Stopped listening on port 8677
+Dynamically enable window occlusion 1
+e document has an invalid readyState of 'loading'.
+1713755331424	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713755499804	Marionette	INFO	Stopped listening on port 8744
+Dynamically enable window occlusion 1
+onment
+1713755352663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755352734	Marionette	INFO	Listening on port 8806
+Read port: 8806
+1713755352885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755382800	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713755518568	Marionette	INFO	Stopped listening on port 8806
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tackersInterceptMyData]
+1713755587219	geckodriver	INFO	Listening on 127.0.0.1:8964
+1713755590275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileSHUbyM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713755590529	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755590598	Marionette	INFO	Listening on port 8974
+Read port: 8974
+1713755590759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755621097	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:321:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2415))
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713756706644	Marionette	INFO	Stopped listening on port 8974
+Dynamically enable window occlusion 1
+30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756075740	Marionette	INFO	Stopped listening on port 9106
+Dynamically enable window occlusion 1
+onment
+1713755726620	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755726690	Marionette	INFO	Listening on port 9185
+Read port: 9185
+1713755726841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755729023	Marionette	INFO	Stopped listening on port 9185
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713755775848	geckodriver	INFO	Listening on 127.0.0.1:9207
+1713755778896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofiletwelhJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713755779154	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713755779189	Marionette	INFO	Listening on port 9217
+Read port: 9217
+1713755779266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755781527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756076378	Marionette	INFO	Stopped listening on port 9217
+Dynamically enable window occlusion 1
+onment
+1713755886679	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755886750	Marionette	INFO	Listening on port 9266
+Read port: 9266
+1713755886909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755917255	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756076972	Marionette	INFO	Stopped listening on port 9266
+Dynamically enable window occlusion 1
+w-size"
+1713755897464	Marionette	INFO	Listening on port 9333
+Read port: 9333
+1713755897621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755900511	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1713755900527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://comic.naver.com/vendor-old-5c521b9b95d2e9c81f35.js, line 2: Script terminated by timeout at:
+get@https://comic.naver.com/vendor-old-5c521b9b95d2e9c81f35.js:2:49929
+dispatch@https://comic.naver.com/vendor-old-5c521b9b95d2e9c81f35.js:2:59331
+19755/</add/v.handle@https://comic.naver.com/vendor-old-5c521b9b95d2e9c81f35.js:2:57868
+
+1713755907955	Marionette	INFO	Stopped listening on port 9333
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713755943594	geckodriver	INFO	Listening on 127.0.0.1:9393
+1713755946659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileD959T9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713755946912	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755946983	Marionette	INFO	Listening on port 9403
+Read port: 9403
+1713755947142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755977565	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756078310	Marionette	INFO	Stopped listening on port 9403
+Dynamically enable window occlusion 1
+onment
+1713755985054	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755985124	Marionette	INFO	Listening on port 9466
+Read port: 9466
+1713755985276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713755987142	Marionette	INFO	Stopped listening on port 9466
+Dynamically enable window occlusion 1
+1713755994121	geckodriver	INFO	Listening on 127.0.0.1:9481
+1713755997174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileKBNe1b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713755997423	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713755997495	Marionette	INFO	Listening on port 9491
+Read port: 9491
+1713755997644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad1713756010967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilebUANP1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713756011235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713756011307	Marionette	INFO	Listening on port 9553
+Read port: 9553
+1713756011462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756014245	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1713756041253	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756080327	Marionette	INFO	Stopped listening on port 9553
+Dynamically enable window occlusion 1
+w-size"
+1713756025710	Marionette	INFO	Listening on port 9621
+Read port: 9621
+1713756025866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756055667	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756081206	Marionette	INFO	Stopped listening on port 9621
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+est.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756082021	Marionette	INFO	Stopped listening on port 9691
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ne 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756073210	Marionette	INFO	Stopped listening on port 9753
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713756110258	geckodriver	INFO	Listening on 127.0.0.1:9814
+1713756113285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilefDAR7G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713756113551	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713756113621	Marionette	INFO	Listening on port 9824
+Read port: 9824
+1713756113771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756144240	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756211749	Marionette	INFO	Stopped listening on port 9824
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756201863	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756210329	Marionette	INFO	Stopped listening on port 9886
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ne 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756208941	Marionette	INFO	Stopped listening on port 9948
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713756341683	geckodriver	INFO	Listening on 127.0.0.1:10014
+1713756344704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileYeWrvm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713756344961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713756345030	Marionette	INFO	Listening on port 10024
+Read port: 10024
+1713756345184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756348013	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1713756375523	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new SyntaxError("JSON.parse: unexpected end of data at line 1 column 1 of the JSON data", "resource:///modules/BrowserUsageTelemetry.sys.mjs", 1213))
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756671116	Marionette	INFO	Stopped listening on port 10024
+Dynamically enable window occlusion 1
+
+1713756395380	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756447779	Marionette	INFO	Stopped listening on port 10094
+Dynamically enable window occlusion 1
+w-size"
+1713756387216	Marionette	INFO	Listening on port 10191
+Read port: 10191
+1713756387367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756417283	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756445344	Marionette	INFO	Stopped listening on port 10191
+Dynamically enable window occlusion 1
+w-size"
+1713756399257	Marionette	INFO	Listening on port 10254
+Read port: 10254
+1713756399413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756429769	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756439311	Marionette	INFO	Stopped listening on port 10254
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713756465052	geckodriver	INFO	Listening on 127.0.0.1:10311
+1713756468103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1800,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofile9q81yo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713756468361	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713756468432	Marionette	INFO	Listening on port 10322
+Read port: 10322
+1713756468583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713756498384	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756672043	Marionette	INFO	Stopped listening on port 10322
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+quest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713756673000	Marionette	INFO	Stopped listening on port 10386
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713766696831	geckodriver	INFO	Listening on 127.0.0.1:8516
+1713766699861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilexGlNmb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713766700153	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713766700222	Marionette	INFO	Listening on port 8527
+Read port: 8527
+1713766700378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713766730630	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713767752483	Marionette	INFO	Stopped listening on port 8527
+DyJavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713770873593	Marionette	INFO	Stopped listening on port 8619
+Dynamically enable window occlusion 1
+w-size"
+1713766776789	Marionette	INFO	Listening on port 8692
+Read port: 8692
+1713766776940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713766779629	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1713766807293	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713767751616	Marionette	INFO	Stopped listening on port 8692
+Dynamically enable window occlusion 1
+onment
+1713766841895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713766841964	Marionette	INFO	Listening on port 8771
+Read port: 8771
+1713766842109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713766871973	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-dcd72a92cfa46d05916d7729aa74e508c9f6ce4f/static/script/common.js, line 599: TypeError: $(...) is null
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9527582522912841, line 85: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9513106687699487, ca-pub-9527582522912841
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9513106687699487, line 85: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9513106687699487, ca-pub-9527582522912841
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 85: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tXhR5WxKMkfxhPR3Ieicu84_GDeFDNUHyibK8QhzoCs.js line 2 > eval line 3095 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19, line 600: Script terminated by timeout at:
+aa.nh@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:600:42
+get@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:598:119
+stop@https://wwJavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713767750685	Marionette	INFO	Stopped listening on port 8916
+Dynamically enable window occlusion 1
+.com/gtag/js?id=G-GMEX5JGP19:632:232
+aa.dm/</<@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:629:248
+kl@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:343:439
+xl@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:346:153
+aa.dm/<@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:629:234
+c@JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713767749827	Marionette	INFO	Stopped listening on port 8981
+Dynamically enable window occlusion 1
+ager.com/gtag/js?id=G-GMEX5JGP19:354:207
+config@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:516:170
+Ay@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:526:477
+Cy@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:528:43
+setTimeout handler*I@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:206:370
+Ey@https://www.googletagmanager.com/gtag/js?id=G-GMEX5JGP19:531:412
+@https://www.googletagmanager.com/gtag/js?JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713767748829	Marionette	INFO	Stopped listening on port 9047
+Dynamically enable window occlusion 1
+olsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713767253633	Marionette	INFO	Stopped listening on port 8771
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1713770750991	geckodriver	INFO	Listening on 127.0.0.1:1634
+1713770796844	geckodriver	INFO	Listening on 127.0.0.1:1669
+1713770830228	geckodriver	INFO	Listening on 127.0.0.1:1694
+1713770844030	geckodriver	INFO	Listening on 127.0.0.1:1709
+1713770874903	geckodriver	INFO	Listening on 127.0.0.1:1732
+1713770905619	geckodriver	INFO	Listening on 127.0.0.1:1757
+1713771004381	geckodriver	INFO	Listening on 127.0.0.1:1849
+1713771031663	geckodriver	INFO	Listening on 127.0.0.1:1871
+1713771045457	geckodriver	INFO	Listening on 127.0.0.1:1885
+1713771050027	geckodriver	INFO	Listening on 127.0.0.1:1898
+1713771071165	geckodriver	INFO	Listening on 127.0.0.1:1915
+1713771234790	geckodriver	INFO	Listening on 127.0.0.1:2055
+1713771249925	geckodriver	INFO	Listening on 127.0.0.1:2070
+1713771273445	geckodriver	INFO	Listening on 127.0.0.1:2088
+1713771288878	geckodriver	INFO	Listening on 127.0.0.1:2105
+1713771304908	geckodriver	INFO	Listening on 127.0.0.1:2121
+1713771326362	geckodriver	INFO	Listening on 127.0.0.1:2139
+1713771342855	geckodriver	INFO	Listening on 127.0.0.1:2155
+1713771507141	geckodriver	INFO	Listening on 127.0.0.1:2264
+1713771529424	geckodriver	INFO	Listening on 127.0.0.1:2282
+1713771556749	geckodriver	INFO	Listening on 127.0.0.1:2302
+1713771656223	geckodriver	INFO	Listening on 127.0.0.1:2411
+1713771659244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileBVorQw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713771659514	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713771659587	Marionette	INFO	Listening on port 2423
+Read port: 2423
+1713771659744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713771664074	Marionette	INFO	Stopped listening on port 2423
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713771773665	geckodriver	INFO	Listening on 127.0.0.1:2532
+1713771776696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofiletlC1jm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713771776949	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713771777022	Marionette	INFO	Listening on port 2544
+Read port: 2544
+1713771777169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713771806993	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713772219447	Marionette	INFO	Stopped listening on port 2544
+Dynamically enable window occlusion 1
+se document has an invalid readyState of 'loading'.
+1713771864593	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713771866853	Marionette	INFO	Stopped listening on port 2645
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713771894316	geckodriver	INFO	Listening on 127.0.0.1:2726
+1713771897344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileEto0Er"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713771897598	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713771897670	Marionette	INFO	Listening on port 2738
+Read port: 2738
+1713771897825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713771927134	Marionette	INFO	Stopped listening on port 2738
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713771959915	geckodriver	INFO	Listening on 127.0.0.1:2818
+1713771962947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilez7aSl2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713771963201	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713771963274	Marionette	INFO	Listening on port 2830
+Read port: 2830
+1713771963423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713771993892	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713772217820	Marionette	INFO	Stopped listening on port 2830
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+7	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713772097461	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1713772124858	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713772216638	Marionette	INFO	Stopped listening on port 2951
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713772133110	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1713772160575	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713772215695	Marionette	INFO	Stopped listening on port 3031
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713773092540	geckodriver	INFO	Listening on 127.0.0.1:5224
+1713773095562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680,1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileg5PMmT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713773095840	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713773095913	Marionette	INFO	Listening on port 5252
+Read port: 5252
+1713773096065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713773127690	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713773528202	Marionette	INFO	Stopped listening on port 5252
+DyJavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713773528969	Marionette	INFO	Stopped listening on port 5355
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+dLetAttackersInterceptMyData]
+1713773371005	geckodriver	INFO	Listening on 127.0.0.1:5536
+1713773374034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileonRyqF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713773374314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713773374397	Marionette	INFO	Listening on port 5546
+Read port: 5546
+1713773374563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713773404391	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713773529745	Marionette	INFO	Stopped listening on port 5546
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+9	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713773511759	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713773680227	Marionette	INFO	Stopped listening on port 5621
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+0	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713773640086	addons.xpi	ERROR	System addon update list err1713773640168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exeJavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713773681515	Marionette	INFO	Stopped listening on port 5692
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+uest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713773962029	Marionette	INFO	Stopped listening on port 5760
+Dynamically enable window occlusion 1
+ronment
+1713773785111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713773785184	Marionette	INFO	Listening on port 5832
+Read port: 5832
+1713773785334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713773788105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1713773815205	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713773962776	Marionette	INFO	Stopped listening on port 5832
+Dynamically enable window occlusion 1
+ronment
+1713773856519	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713773856597	Marionette	INFO	Listening on port 5935
+Read port: 5935
+1713773856761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713773886562	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713773963858	Marionette	INFO	Stopped listening on port 5935
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713773978997	geckodriver	INFO	Listening on 127.0.0.1:6003
+1713773982052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilekSzygn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713773982319	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713773982392	Marionette	INFO	Listening on port 6013
+Read port: 6013
+1713773982543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713774012346	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713774181205	Marionette	INFO	Stopped listening on port 6013
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+7	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713774182258	Marionette	INFO	Stopped listening on port 6097
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+4	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713774183055	Marionette	INFO	Stopped listening on port 6162
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713774188536	geckodriver	INFO	Listening on 127.0.0.1:6223
+1713774191574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileHjQG6a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713774191823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713774191896	Marionette	INFO	Listening on port 6233
+Read port: 6233
+1713774192056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713774221851	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713774374081	Marionette	INFO	Stopped listening on port 6233
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+7	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713774375435	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/static.cbox/20240415133521/js/cbox.eg.js, line 8: Script terminated by timeout at:
+[1]</</</cbox.Persist/bind/</<@https://ssl.pstatic.net/static.cbox/20240415133521/js/cbox.eg.js:8:123706
+e@https://ssl.pstatic.net/static.cbox/20240415133521/js/cbox.eg.js:8:123436
+[1]</</</cbox.Persist/bind/<@https://ssl.pstatic.net/static.cbox/20240415133521/js/cbox.eg.js:8:123644
+dispatch@https://comic.naver.com/vendor-old-5c521b9b95d2e9c81f35.js:2:59873
+19755/</add/v.handle@https://comic.naver.com/vendor-old-5c521b9b95d2e9c81f35.js:2:57868
+
+1713774823665	Marionette	INFO	Stopped listening on port 6311
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1713834181927	geckodriver	INFO	Listening on 127.0.0.1:7018
+1713834184954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1680, 1024" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofile2kt89p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713834185265	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713834185352	Marionette	INFO	Listening on port 7028
+Read port: 7028
+1713834185406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713834215303	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js, line 1: Script terminated by timeout at:
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30134
+value@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30302
+22893/value/<@https://ssl.pstatic.net/tveta/libs/glad/prod/2.24.1/gfp-sdk.js:1:30812
+
+1713834297555	Marionette	INFO	Stopped listening on port 7028
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

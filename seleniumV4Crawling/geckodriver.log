@@ -1,0 +1,210 @@
+1713850605904	geckodriver	INFO	Listening on 127.0.0.1:1272
+1713850608961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1024, 1680" "--remote-debug ... 1273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilerXrpGB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713850609230	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713850609305	Marionette	INFO	Listening on port 1285
+WebDriver BiDi listening on ws://127.0.0.1:1273
+Read port: 1285
+1713850609464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713850609487	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:1271","sslProxy":"127.0.0.1:1271"}
+DevTools listening on ws://127.0.0.1:1273/devtools/browser/2696637c-c530-46a5-8af6-806c90645bed
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1713850640715	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713851121936	Marionette	INFO	Stopped listening on port 1285
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1024, 1680" "--remote-debug ... 1391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilev52B4x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713850650228	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713850650299	Marionette	INFO	Listening on port 1398
+WebDriver BiDi listening on ws://127.0.0.1:1391
+Read port: 1398
+1713850650459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713850650482	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:1389","sslProxy":"127.0.0.1:1389"}
+DevTools listening on ws://127.0.0.1:1391/devtools/browser/34df3645-ee9d-42e3-b382-2cc455cb1152
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1713850681838	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713851121189	Marionette	INFO	Stopped listening on port 1398
+Dynamically enable window occlusion 1
+ost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilew2zYV5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713850674556	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713850674628	Marionette	INFO	Listening on port 1507
+WebDriver BiDi listening on ws://127.0.0.1:1499
+Read port: 1507
+1713850674795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713850674819	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:1497","sslProxy":"127.0.0.1:1497"}
+DevTools listening on ws://127.0.0.1:1499/devtools/browser/9a1d7e35-36be-4bdf-ba20-9f3a42a6efed
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 719"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:719:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:566:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:465:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:429:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2208:33
+addAllSources@resource://devtools/server/actors/thread.js:1528:14
+watch@resource://devtools/server/actors/resources/sources.js:81:17
+watchResources@resource://devtools/server/actors/resources/index.js:340:15
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:54:23
+_addOrSetSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:544:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:446:21
+Line: 719, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 719: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+1713850704604	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do, line 2804: ReferenceError: Kakao is not defined
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:321:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713851120397	Marionette	INFO	Stopped listening on port 1507
+Dynamically enable window occlusion 1
+8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileRZD0Wf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713850967414	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713850967487	Marionette	INFO	Listening on port 1765
+WebDriver BiDi listening on ws://127.0.0.1:1758
+Read port: 1765
+1713850967640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713850967664	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:1756","sslProxy":"127.0.0.1:1756"}
+DevTools listening on ws://127.0.0.1:1758/devtools/browser/0cb6de9b-d925-42c7-ad93-a8e213727de6
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+1713850998060	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+3851029169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1920, 1680" "--remote-debug ... 1877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilevQywsn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713851029441	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713851029519	Marionette	INFO	Listening on port 1884
+WebDriver BiDi listening on ws://127.0.0.1:1877
+Read port: 1884
+1713851029692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713851029715	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:1875","sslProxy":"127.0.0.1:1875"}
+DevTools listening on ws://127.0.0.1:1877/devtools/browser/787af7cf-e3c6-491c-b444-fc951b5f86f0
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+1713851059812	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713851110273	geckodriver	INFO	Listening on 127.0.0.1:2017
+1713851113317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1024, 1680" "--remote-debug ... 2018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofilenZ8xeg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713851113593	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713851113670	Marionette	INFO	Listening on port 2025
+WebDriver BiDi listening on ws://127.0.0.1:2018
+Read port: 2025
+1713851113838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713851113862	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:2016","sslProxy":"127.0.0.1:2016"}
+DevTools listening on ws://127.0.0.1:2018/devtools/browser/fb61ca47-86e3-42bd-8514-63bb3667017f
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+1713851144141	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713851254342	Marionette	INFO	Stopped listening on port 2025
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1024, 1680" "--remote-debug ... 2131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofiletakbQx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713851182756	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713851182829	Marionette	INFO	Listening on port 2138
+WebDriver BiDi listening on ws://127.0.0.1:2131
+Read port: 2138
+1713851182994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713851183016	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:2129","sslProxy":"127.0.0.1:2129"}
+DevTools listening on ws://127.0.0.1:2131/devtools/browser/700957de-b470-4abd-b4e9-c24fe1a580b1
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1713851214355	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713851258262	Marionette	INFO	Stopped listening on port 2138
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1920, 1680" "--remote-debug ... 2246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileXE2WjE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713851254288	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713851254405	Marionette	INFO	Listening on port 2253
+WebDriver BiDi listening on ws://127.0.0.1:2246
+Read port: 2253
+1713851254610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713851254634	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:2244","sslProxy":"127.0.0.1:2244"}
+DevTools listening on ws://127.0.0.1:2246/devtools/browser/e9d817d0-3d0b-4b3b-95da-4554983494f7
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1713851284727	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: chrome://browser/content/preferences/moreFromMozilla.js, line 83: TypeError: Region.home is null
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1713852201648	Marionette	INFO	Stopped listening on port 2253
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1920, 1680" "--remote-debug ... 2435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileSQbLcs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713851736852	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713851736923	Marionette	INFO	Listening on port 2443
+WebDriver BiDi listening on ws://127.0.0.1:2435
+Read port: 2443
+1713851737079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713851737101	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:2433","sslProxy":"127.0.0.1:2433"}
+DevTools listening on ws://127.0.0.1:2435/devtools/browser/9ea11553-8a2a-4e31-a3ca-c63d07a005b7
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+1713851768419	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713852199934	Marionette	INFO	Stopped listening on port 2443
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size= 1920, 1680" "--remote-debug ... 2554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tj\\AppData\\Local\\Temp\\rust_mozprofileoFaG0p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713851774403	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1713851774474	Marionette	INFO	Listening on port 2561
+WebDriver BiDi listening on ws://127.0.0.1:2554
+Read port: 2561
+1713851774638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713851774661	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:2552","sslProxy":"127.0.0.1:2552"}
+DevTools listening on ws://127.0.0.1:2554/devtools/browser/7206c7be-88e5-4996-93e9-99441b9f6dcf
+JavaScript error: https://www.starbucks.co.kr:7643/store/store_map.do?disp=locale, line 2804: ReferenceError: Kakao is not defined
+1713851806114	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1713852197569	Marionette	INFO	Stopped listening on port 2561
+Dynamically enable window occlusion 1
